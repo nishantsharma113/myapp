@@ -1,2 +1,2 @@
 # myapp
-Author - Nishant Sharma
+Author - Nishant Sharma Indeses - Flutter Developer
